@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.1d58ed8c.css",
-    "main.js": "/portfolio/static/js/main.b5f6e673.js",
+    "main.js": "/portfolio/static/js/main.bc0f42a9.js",
     "static/js/488.9561f9b8.chunk.js": "/portfolio/static/js/488.9561f9b8.chunk.js",
     "static/media/hero_photo.jpg": "/portfolio/static/media/hero_photo.253c44e9e5d0047da222.jpg",
     "static/media/vit.png": "/portfolio/static/media/vit.4855d363be55caf5519d.png",
@@ -14,11 +14,11 @@
     "static/media/iitmadras.png": "/portfolio/static/media/iitmadras.522c66a053be2c6907c3.png",
     "index.html": "/portfolio/index.html",
     "main.1d58ed8c.css.map": "/portfolio/static/css/main.1d58ed8c.css.map",
-    "main.b5f6e673.js.map": "/portfolio/static/js/main.b5f6e673.js.map",
+    "main.bc0f42a9.js.map": "/portfolio/static/js/main.bc0f42a9.js.map",
     "488.9561f9b8.chunk.js.map": "/portfolio/static/js/488.9561f9b8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d58ed8c.css",
-    "static/js/main.b5f6e673.js"
+    "static/js/main.bc0f42a9.js"
   ]
 }
