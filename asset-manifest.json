@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.1d58ed8c.css",
+    "main.js": "/portfolio/static/js/main.b5f6e673.js",
+    "static/js/488.9561f9b8.chunk.js": "/portfolio/static/js/488.9561f9b8.chunk.js",
+    "static/media/hero_photo.jpg": "/portfolio/static/media/hero_photo.253c44e9e5d0047da222.jpg",
+    "static/media/vit.png": "/portfolio/static/media/vit.4855d363be55caf5519d.png",
+    "static/media/housePrediction.png": "/portfolio/static/media/housePrediction.e0c971de4d733fd130d2.png",
+    "static/media/fraudProject.png": "/portfolio/static/media/fraudProject.7e2daa19d84ec2039eb2.png",
+    "static/media/volunteerManagement.jpg": "/portfolio/static/media/volunteerManagement.7cdac181bb2c8944b8fd.jpg",
+    "static/media/jobVsBusiness.png": "/portfolio/static/media/jobVsBusiness.3f4c7e183fcd8bc91993.png",
+    "static/media/codeHub.png": "/portfolio/static/media/codeHub.60956128fe69a9f10ff2.png",
+    "static/media/movieMedia.png": "/portfolio/static/media/movieMedia.842d5d351a410efb74d2.png",
+    "static/media/iitmadras.png": "/portfolio/static/media/iitmadras.522c66a053be2c6907c3.png",
+    "index.html": "/portfolio/index.html",
+    "main.1d58ed8c.css.map": "/portfolio/static/css/main.1d58ed8c.css.map",
+    "main.b5f6e673.js.map": "/portfolio/static/js/main.b5f6e673.js.map",
+    "488.9561f9b8.chunk.js.map": "/portfolio/static/js/488.9561f9b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d58ed8c.css",
+    "static/js/main.b5f6e673.js"
+  ]
+}
